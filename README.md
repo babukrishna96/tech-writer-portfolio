@@ -1,1 +1,0 @@
-# tech-writer-portfolio
