@@ -1285,7 +1285,7 @@ img {
   }
 
   .services__container {
-    grid-template-columns: repeat(3, 218px);
+    grid-template-columns: repeat(2, 218px);
     justify-content: center;
   }
 
